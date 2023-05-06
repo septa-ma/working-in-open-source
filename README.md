@@ -35,4 +35,4 @@ You can find many of them from Explore -> Topics -> Awesome lists.
 
 
 # source:
-**wwww.dev.to**
+**www.dev.to**
