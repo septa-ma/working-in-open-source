@@ -20,6 +20,7 @@
             - good first issue
             - help wanted
             - up for grabs
+    - **for more information check this:** https://docs.github.com/en/issues/tracking-your-work-with-issues/filtering-and-searching-issues-and-pull-requests
 - **2- look at these websites and find opensource projects:**
     - https://www.firsttimersonly.com/
     - https://goodfirstissue.dev/
