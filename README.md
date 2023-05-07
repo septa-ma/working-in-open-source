@@ -35,4 +35,4 @@ You can find many of them from Explore -> Topics -> Awesome lists.
 
 
 # source:
-**www.dev.to**
+Open Source playlist from: **https://www.youtube.com/@DevLeonardo**
