@@ -22,7 +22,8 @@
             - up for grabs
     - **for more information check this:** 
         - https://docs.github.com/en/issues/tracking-your-work-with-issues/filtering-and-searching-issues-and-pull-requests
-        - https://embeddedartistry.com/blog/2017/11/09/github-search-query-cheat-sheet/
+        - https://www.freecodecamp.org/news/github-search-tips/
+     
 - **2- look at these websites and find opensource projects:**
     - https://www.firsttimersonly.com/
     - https://goodfirstissue.dev/
