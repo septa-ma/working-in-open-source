@@ -21,6 +21,7 @@
         - https://www.freecodecamp.org/news/github-search-tips/
      
 - **2- look at these websites and find opensource projects:**
+    - https://www.codetriage.com/
     - https://www.firsttimersonly.com/
     - https://goodfirstissue.dev/
     - https://goodfirstissues.com/
@@ -41,10 +42,12 @@ for example linking duplicate issues, asking for more details in case a bug or a
 You can find many of them from Explore -> Topics -> Awesome lists.
 
 # D- How to become familiar with project's culture?
-- 1- reading README.md to learn more about the project.
-- 2- look at CONTRIBUTING.md or CODE OF CONDUCT file to understand how the contribution workflow is handled in that specific project.
-- 3- navigate to the issues tab, to see how users write their issues and how maintainers answer and guide the community.
-- 4- click on some Pull Requests and read the content.
+- 1- it has to have LICENSE to understand if it's open source or not.
+- 2- check the number of commits and last day of commit.
+- 3- reading README.md to learn more about the project.
+- 4- look at CONTRIBUTING.md or CODE OF CONDUCT file to understand how the contribution workflow is handled in that specific project.
+- 5- navigate to the issues tab, to see how users write their issues and how maintainers answer and guide the community.
+- 6- click on Pull Requests tab and check and read some.
 
 # sources:
 - **https://dev.to/balastrong/series/19097**
