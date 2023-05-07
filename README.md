@@ -1,5 +1,4 @@
-# A- how open source can change your life?
-
+# A- How open source helps you in your career life?
 - **1- learn new things:** you will find plenty of architectures, frameworks, patterns, implementations which you never seen before.
 - **2- strengthen your skills:** you can keep refresh and up to date with your knowledge.
 - **3- receive feedback:** feedback from other developers will help you extend your views and solve problems from various ways.
@@ -8,8 +7,7 @@
 - **6- expand your networking and finding a new job:** lots of professionals are spending some of their time in open source.
 - **7- personal satisfaction and confidence boost.**
 
-# B- how to find a project?
-
+# B- How to find a project?
 - **1- go to the issues tab on your github and search for projects. for examples:**
     - is:issue is:open language:python label:"good first issue" 
     - is:issue is:open label:"good first issue" 
@@ -30,8 +28,7 @@
     - https://www.libhunt.com/topic/good-first-issue
     - https://project-awesome.org/MunGell/awesome-for-beginners
 
-# C- how to contribute to open-source contributions?
-
+# C- How to contribute to the open-source contributions?
 - **1- Code Contributions:** You can contribute to the code of the project. You can add a new feature to it or you can solve bugs by writing the code.
 - **2- Documentation contributions:** This involves writing or updating documentation for the project, such as adding examples, improving the read-me file, or fixing errors.
 you can translate documentation in your own language.
@@ -42,7 +39,7 @@ for example linking duplicate issues, asking for more details in case a bug or a
 - **6- Community contributions:** It involves helping people to contribute and answering their questions and organizing events for the communities.
 You can find many of them from Explore -> Topics -> Awesome lists.
 
-# D- how to become familiar with project's culture?
+# D- How to become familiar with project's culture?
 - 1- reading README.md to learn more about the project.
 - 2- look at CONTRIBUTING.md or CODE OF CONDUCT file to understand how the contribution workflow is handled in that specific project.
 - 3- navigate to the issues tab, to see how users write their issues and how maintainers answer and guide the community.
