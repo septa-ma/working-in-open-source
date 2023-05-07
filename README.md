@@ -22,12 +22,17 @@
      
 - **2- look at these websites and find opensource projects:**
     - https://www.codetriage.com/
+    - https://firstcontributions.github.io/
     - https://www.firsttimersonly.com/
     - https://goodfirstissue.dev/
     - https://goodfirstissues.com/
     - https://up-for-grabs.net/
+    - https://24pullrequests.com/
+    - https://contributor.ninja/
     - https://www.libhunt.com/topic/good-first-issue
     - https://project-awesome.org/MunGell/awesome-for-beginners
+    - https://web.archive.org/web/202011112...
+  
 - **3- check out your application such as VS Code, PyTorch, nodejs, linux etc. Or packages you're working in a project with, which are open source or not.**
 
 # C- How to contribute to the open-source contributions?
@@ -58,3 +63,9 @@ You can find many of them from Explore -> Topics -> Awesome lists.
 - 5- for being sure nothing change in original branch go to original branch and pull the project.
 - 6- go to your branch and add changes to the repository.
 - 7- when your done create your pull request.
+
+
+# sources:
+- **https://www.youtube.com/watch?v=RGd5cOXpCQw**
+- **https://dev.to/balastrong/series/19097**
+- **https://www.youtube.com/watch?v=W7AewHnxMig**
