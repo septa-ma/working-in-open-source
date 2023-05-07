@@ -1,5 +1,3 @@
-# working-in-open-source
-
 # A- how open source can change your life?
 
 - **1- learn new things:** you will find plenty of architectures, frameworks, patterns, implementations which you never seen before.
