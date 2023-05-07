@@ -8,7 +8,7 @@
 - **7- personal satisfaction and confidence boost.**
 
 # B- How to find a project?
-- **1- go to the issues tab on your github and search for projects. for examples:**
+- **1- go to the issues tab on your github and filter and search for projects. for examples:**
     - is:issue is:open language:python label:"good first issue" 
     - is:issue is:open label:"good first issue" 
     - is:open label:"good first issue" 
@@ -41,13 +41,23 @@ for example linking duplicate issues, asking for more details in case a bug or a
 - **6- Community contributions:** It involves helping people to contribute and answering their questions and organizing events for the communities.
 You can find many of them from Explore -> Topics -> Awesome lists.
 
-# D- How to become familiar with project's culture?
+# D- How to become familiar with a project's culture?
 - 1- it has to have LICENSE to understand if it's open source or not.
 - 2- check the number of commits and last day of commit.
 - 3- reading README.md to learn more about the project.
 - 4- look at CONTRIBUTING.md or CODE OF CONDUCT file to understand not only how the contribution workflow is handled in the project, but also knowing about the vision of it.
 - 5- navigate to the issues tab, not only to see how users write their issues and how maintainers answer and guide the community, but also you can filter the issue for finding a good one to work on.
 - 6- click on Pull Requests tab and check and read some.
+- 7- search todo on the repository to find out what things need to be done.
+
+# E- How to make a pull request?
+- 1- make a fork from the project.
+- 2- clone on your local machine.
+- 3- create a new branch and go to that branch.
+- 4- work on the project.
+- 5- for being sure nothing change in original branch go to original branch and pull the project.
+- 6- go to your branch and add changes to the repository.
+- 7- when your done create your pull request.
 
 # sources:
 - **https://dev.to/balastrong/series/19097**
