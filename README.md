@@ -45,8 +45,8 @@ You can find many of them from Explore -> Topics -> Awesome lists.
 - 1- it has to have LICENSE to understand if it's open source or not.
 - 2- check the number of commits and last day of commit.
 - 3- reading README.md to learn more about the project.
-- 4- look at CONTRIBUTING.md or CODE OF CONDUCT file to understand how the contribution workflow is handled in that specific project.
-- 5- navigate to the issues tab, to see how users write their issues and how maintainers answer and guide the community.
+- 4- look at CONTRIBUTING.md or CODE OF CONDUCT file to understand not only how the contribution workflow is handled in the project, but also knowing about the vision of it.
+- 5- navigate to the issues tab, not only to see how users write their issues and how maintainers answer and guide the community, but also you can filter the issue for finding a good one to work on.
 - 6- click on Pull Requests tab and check and read some.
 
 # sources:
