@@ -28,7 +28,7 @@
     - https://up-for-grabs.net/
     - https://www.libhunt.com/topic/good-first-issue
     - https://project-awesome.org/MunGell/awesome-for-beginners
-- **3- check out your application such as VS Code, PyTorch etc. Or packages you're working in a project with, which are open source or not.**
+- **3- check out your application such as VS Code, PyTorch, nodejs, linux etc. Or packages you're working in a project with, which are open source or not.**
 
 # C- How to contribute to the open-source contributions?
 - **1- Code Contributions:** You can contribute to the code of the project. You can add a new feature to it or you can solve bugs by writing the code.
