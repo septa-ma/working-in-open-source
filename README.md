@@ -58,6 +58,3 @@ You can find many of them from Explore -> Topics -> Awesome lists.
 - 5- for being sure nothing change in original branch go to original branch and pull the project.
 - 6- go to your branch and add changes to the repository.
 - 7- when your done create your pull request.
-
-# sources:
-- **https://dev.to/balastrong/series/19097**
