@@ -17,6 +17,7 @@
             - help wanted
             - up for grabs
     - **for more information check this:** 
+        - https://docs.github.com/en/search-github/searching-on-github/searching-issues-and-pull-requests
         - https://docs.github.com/en/issues/tracking-your-work-with-issues
         - https://www.freecodecamp.org/news/github-search-tips/
      
@@ -31,7 +32,6 @@
     - https://contributor.ninja/
     - https://www.libhunt.com/topic/good-first-issue
     - https://project-awesome.org/MunGell/awesome-for-beginners
-    - https://web.archive.org/web/202011112...
   
 - **3- check out your application such as VS Code, PyTorch, nodejs, linux etc. Or packages you're working in a project with, which are open source or not.**
 
