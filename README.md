@@ -21,7 +21,7 @@
             - help wanted
             - up for grabs
     - **for more information check this:** 
-        - https://docs.github.com/en/issues/tracking-your-work-with-issues/filtering-and-searching-issues-and-pull-requests
+        - https://docs.github.com/en/issues/tracking-your-work-with-issues
         - https://www.freecodecamp.org/news/github-search-tips/
      
 - **2- look at these websites and find opensource projects:**
