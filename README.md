@@ -61,7 +61,7 @@ You can find many of them from Explore -> Topics -> Awesome lists.
 - 3- create a new branch and go to that branch.
 - 4- work on the project.
 - 5- for being sure nothing change in original branch go to original branch and pull the project.
-- 6- go to your branch and add changes to the repository.
+- 6- go to your branch and pull again then add changes to the repository.
 - 7- when your done create your pull request.
 
 
